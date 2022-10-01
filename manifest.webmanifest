@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "img/sr-favicon_192x_rounded.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/sr-favicon_512x_rounde.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
